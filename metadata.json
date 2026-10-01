@@ -1,0 +1,6 @@
+{
+  "name": "College Any Time Print (ATP) System",
+  "description": "Automated Self-Service QR Printing Kiosk & Cloud Spooler for HP LaserJet Pro MFP M126nw with verified payment webhooks, agent daemon, and multi-college fleet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+{
+  "server_url": "https://ais-dev-fobn4qlfychars3sjaxtes-962255217366.asia-east1.run.app",
+  "machine_id": "ATP-XAV-001",
+  "machine_token": "atp_sec_xav_lib_01_98f4a",
+  "printer_name": "HP LaserJet Pro MFP M126nw",
+  "poll_interval_seconds": 3,
+  "heartbeat_interval_seconds": 10,
+  "sumatra_pdf_path": "C:\\Program Files\\SumatraPDF\\SumatraPDF.exe",
+  "auto_delete_temp_files": true,
+  "log_file": "atp_agent.log"
+}
